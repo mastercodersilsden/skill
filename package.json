@@ -1,0 +1,25 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000k\u0000i\u0000l\u0000l\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastercodersilsden/skill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mastercodersilsden/skill/issues"
+  },
+  "homepage": "https://github.com/mastercodersilsden/skill#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
